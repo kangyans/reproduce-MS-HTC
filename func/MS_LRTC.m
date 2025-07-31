@@ -1,5 +1,6 @@
 function res = MS_LRTC(ksp, ref, kSize, nIter, R, tol)
-% to implement a joint multi-slice SAKE using low rank tenosr completion
+% to implement a joint reconstruction of multi-slice undersampled 
+% k-space data using low rank tenosr completion
 %
 % Input
 %       - ksp   : undersampled kspace data with size of [nx, ny, nc, nsli]
