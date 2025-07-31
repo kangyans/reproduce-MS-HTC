@@ -8,7 +8,7 @@ The [Tensor Toolbox](https://www.tensortoolbox.org/index.html) must be installed
 
 ## Notes
 
-- If you encounter a memory crash error, try replacing the ```hosvd.m``` function with version provided in ```.\func\ ``` directory.
+- If you encounter a memory crash error, try replacing the ```hosvd.m``` function with version provided in ```.\func\ ``` directory. The original ```hosvd.m``` is not memory-optimized.
 - Spiral case is not included.
 
 ## Reference
