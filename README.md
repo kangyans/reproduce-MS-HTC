@@ -7,7 +7,9 @@ This repository reproduces the results of [MS-HTC](https://github.com/loyalliu/M
 The [Tensor Toolbox](https://www.tensortoolbox.org/index.html) must be installed prior to running the code.
 
 ## Notes
-If you encounter a memory crash error, try replacing the ```hosvd.m``` function with version provided in ```.\func\ ``` directory.
+
+- If you encounter a memory crash error, try replacing the ```hosvd.m``` function with version provided in ```.\func\ ``` directory.
+- Spiral case is not included.
 
 ## Reference
 Liu, Yilong, et al. "Calibrationless parallel imaging reconstruction for multislice MR data using low‐rank tensor completion." Magnetic Resonance in Medicine 85.2 (2021): 897-911.
