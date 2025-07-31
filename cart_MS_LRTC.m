@@ -5,7 +5,7 @@
 %% Prepare workspace
 close all; clc; clear;
 
-addpath(genpath('D:\uva\apps\Projects\sp2HASTE\tensor_toolbox-v3.6\'))
+addpath(genpath('.\tensor_toolbox-v3.6\'))
 
 %% Prepare data
 load .\data\T1w_SE.mat
