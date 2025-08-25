@@ -1,6 +1,8 @@
 # reproduce-MS-HTC
 
-This repository reproduces the results of [MS-HTC](https://github.com/loyalliu/MS-HTC), a method for jointly reconstructing multi-slice undersampled k-space data using Low-Rank Tensor Completion. Please note that the original implementation's core function, i.e. ```MS-HTC.p```, is obfuscated and provided as an execute-only file. In this repository, we provide an open reimplementation of the method.
+This repository reproduces the results of [MS-HTC](https://github.com/loyalliu/MS-HTC), a method for jointly reconstructing multi-slice undersampled k-space data using Low-Rank Tensor Completion. 
+
+Please note that the original implementation's core function, i.e. ```MS-HTC.p```, is obfuscated and provided as an execute-only file. In this repository, we provide an open reimplementation of the method.
 
 ## Prerequisite
 
